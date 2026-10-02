@@ -1,4 +1,4 @@
-# Manish Das
+# Hi, I am Manish! ^_^
 
 **Doctoral Researcher · Experimental Medical Physics**
 _Positronium lifetime imaging with the J-PET plastic-scintillator PET scanner_
