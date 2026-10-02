@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Manish Das</h1>
+  <h1>Hi, I'm Manish Das 👋</h1>
   <h3>Doctoral Researcher in Experimental Medical Physics</h3>
   <i>Positronium lifetime imaging with the J-PET plastic-scintillator PET scanner</i>
 
@@ -20,7 +20,7 @@
 
 <br />
 
-## About My Research
+## 🔬 About My Research
 
 <blockquote>
   I am a PhD researcher at the Marian Smoluchowski Institute of Physics, Jagiellonian University. I work in the <a href="https://koza.if.uj.edu.pl/pet">J-PET group</a> led by Prof. Paweł Moskal. My thesis focuses on positronium lifetime imaging with a PET detector built entirely from plastic scintillator strips. This covers radionuclide selection, TOF/TOT calibration, scatter and random correction, and image reconstruction for triple-coincidence data. I also contribute to tests of fundamental P, T, and CP symmetries using annihilation photons from positronium.
@@ -32,7 +32,7 @@ When a positron meets an electron, the two can briefly bind into an atom of matt
 
 <br />
 
-## Selected Publications
+## 📚 Selected Publications
 
 *First-author and equal-contribution work.*
 
@@ -46,7 +46,7 @@ When a positron meets an electron, the two can briefly bind into an atom of matt
 
 <br />
 
-## Collaborative Results
+## 🤝 Collaborative Results
 
 *High-profile papers I contribute to as a member of the J-PET collaboration and the muPPET experiment.*
 
@@ -64,7 +64,7 @@ When a positron meets an electron, the two can briefly bind into an atom of matt
 
 <br />
 
-## Selected Talks & Posters
+## 🗣️ Selected Talks & Posters
 
 * **Positronium as a biomarker for neuroendocrine tumor.** EMIM 2025, Bilbao, Spain (Mar 2025). Poster.
 * **Development and validation of iterative reconstruction for positron lifetime imaging using ⁴⁴Sc with the modular J-PET.** EMIM 2026, Ljubljana, Slovenia (Mar 2026).
@@ -76,7 +76,7 @@ When a positron meets an electron, the two can briefly bind into an atom of matt
 
 <br />
 
-## Experience
+## 💼 Experience
 
 | Role | Period | Details |
 | :--- | :--- | :--- |
@@ -87,7 +87,7 @@ When a positron meets an electron, the two can briefly bind into an atom of matt
 
 <br />
 
-## Education
+## 🎓 Education
 
 * **PhD (in progress), Physics.** Experimental Particle Physics and Applications. Jagiellonian University, Kraków, Poland (Oct 2023 to present). Focus on positronium lifetime imaging with plastic-scintillator PET detectors.
 * **MS, Applied Physics.** Guru Ghasidas University, Bilaspur, Chhattisgarh, India (Aug 2019 to Aug 2021). Focus on nuclear and particle physics instrumentation.
@@ -95,7 +95,7 @@ When a positron meets an electron, the two can briefly bind into an atom of matt
 
 <br />
 
-## Skills & Languages
+## 🛠️ Skills & Languages
 
 * **Experimental particle physics:** positronium, annihilation photons, prompt γ, triple coincidence, discrete symmetries.
 * **Medical imaging:** PET, PLI, image reconstruction, TOF-PET, NEMA phantom protocols.
@@ -105,7 +105,7 @@ When a positron meets an electron, the two can briefly bind into an atom of matt
 
 <br />
 
-## Contact
+## 📬 Contact
 
 <table>
   <tr>
