@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Manish Das 👋</h1>
+  <h1>Manish Das</h1>
   <h3>Doctoral Researcher in Experimental Medical Physics</h3>
   <i>Positronium lifetime imaging with the J-PET plastic-scintillator PET scanner</i>
 
@@ -7,7 +7,7 @@
   <br />
 
   <a href="https://koza.if.uj.edu.pl/pet"><img src="https://img.shields.io/badge/J--PET%20at%20Jagiellonian%20University-4A154B?style=for-the-badge" alt="J-PET at Jagiellonian University" /></a>
-  <a href="#-selected-publications"><img src="https://img.shields.io/badge/Publications-25-4A154B?style=for-the-badge" alt="25 publications" /></a>
+  <a href="#selected-publications"><img src="https://img.shields.io/badge/Publications-25-4A154B?style=for-the-badge" alt="25 publications" /></a>
   <a href="https://github.com/dr-manish-das"><img src="https://img.shields.io/badge/Code-github.com%2Fdr--manish--das-555555?style=for-the-badge&logo=github" alt="GitHub" /></a>
   
   <br />
@@ -20,17 +20,17 @@
 
 <br />
 
-## 🔬 About My Research
+## About My Research
 
 I am a PhD researcher at the Marian Smoluchowski Institute of Physics, Jagiellonian University. I work in the [J-PET group](https://koza.if.uj.edu.pl/pet) led by Prof. Paweł Moskal. My thesis focuses on positronium lifetime imaging with a PET detector built entirely from plastic scintillator strips. This covers radionuclide selection, TOF/TOT calibration, scatter and random correction, and image reconstruction for triple-coincidence data. I also contribute to tests of fundamental P, T, and CP symmetries using annihilation photons from positronium.
 
 When a positron meets an electron, the two can briefly bind into an atom of matter and antimatter called **positronium**. In tissue, the time between its formation and its annihilation depends on the surrounding molecular environment and oxygen concentration. Measuring that lifetime yields a functional map at a submillimetre scale that a conventional PET scan cannot resolve. 
 
-**Positronium lifetime imaging (PLI)** turns this into a visual map, for example, of tumour oxygenation. Because the J-PET scanner uses only plastic scintillator strips, this type of PET is cheaper, lighter, and more modular than conventional inorganic-crystal detectors. It serves as the starting point for ongoing work toward a total-body plastic PET scanner.
+**Positronium lifetime imaging (PLI)** turns this into a visual map; for example, it can map tumour oxygenation. Because the J-PET scanner uses only plastic scintillator strips, this type of PET is cheaper, lighter, and more modular than conventional inorganic-crystal detectors. It serves as the starting point for ongoing work toward a total-body plastic PET scanner.
 
-<br />
+<hr />
 
-## 📚 Selected Publications
+## Selected Publications
 
 *First-author and equal-contribution work.*
 
@@ -42,9 +42,9 @@ When a positron meets an electron, the two can briefly bind into an atom of matt
 6. **First experimental demonstration of positronium lifetime imaging with ⁴⁴Sc using the J-PET scanner.** _IEEE NSS/MIC/RTSD_ (2025). First author.
 7. **Performance evaluation of the modular J-PET detector in conventional PET imaging.** _IEEE NSS/MIC/RTSD_ (2024). First author.
 
-<br />
+<hr />
 
-## 🤝 Collaborative Results
+## Collaborative Results
 
 *High-profile papers I contribute to as a member of the J-PET collaboration and the muPPET experiment.*
 
@@ -60,9 +60,9 @@ When a positron meets an electron, the two can briefly bind into an atom of matt
 | **muPPET: Investigating the Muon Puzzle with J-PET Detectors** | Universe **11**(6) 180 | 2025 | |
 | **First-in-human quantum entanglement imaging** | arXiv:2606.29421 (preprint) | 2026 | [arXiv](https://arxiv.org/abs/2606.29421) |
 
-<br />
+<hr />
 
-## 🗣️ Selected Talks & Posters
+## Selected Talks & Posters
 
 * **Positronium as a biomarker for neuroendocrine tumor.** EMIM 2025, Bilbao, Spain (Mar 2025). Poster.
 * **Development and validation of iterative reconstruction for positron lifetime imaging using ⁴⁴Sc with the modular J-PET.** EMIM 2026, Ljubljana, Slovenia (Mar 2026).
@@ -72,9 +72,9 @@ When a positron meets an electron, the two can briefly bind into an atom of matt
 * **Evaluation of normalization and random coincidence corrections of clinical images from the first PET built from plastic scintillators.** EANM 2024.
 * **Estimating efficiency and purity for detecting annihilation and prompt photons with J-PET.** Symposium on New Trends in Nuclear and Medical Physics (Oct 2023). Poster.
 
-<br />
+<hr />
 
-## 💼 Experience
+## Experience
 
 | Role | Period | Details |
 | :--- | :--- | :--- |
@@ -83,17 +83,17 @@ When a positron meets an electron, the two can briefly bind into an atom of matt
 | **Research Intern**<br>Jagiellonian University | Dec 2022 to Sep 2023 | PET detector corrections and prompt-γ detection efficiency simulations. |
 | **Subject Matter Expert**<br>Chegg India | Dec 2020 to Dec 2022 | Advanced physics and mathematics tutoring. |
 
-<br />
+<hr />
 
-## 🎓 Education
+## Education
 
 * **PhD (in progress), Physics.** Experimental Particle Physics and Applications. Jagiellonian University, Kraków, Poland (Oct 2023 to present). Focus on positronium lifetime imaging with plastic-scintillator PET detectors.
 * **MS, Applied Physics.** Guru Ghasidas University, Bilaspur, Chhattisgarh, India (Aug 2019 to Aug 2021). Focus on nuclear and particle physics instrumentation.
 * **BS, Physics / Mathematics / Geology.** Pt. Ravishankar Shukla University, Raipur, Chhattisgarh, India (Aug 2015 to Aug 2018).
 
-<br />
+<hr />
 
-## 🛠️ Skills & Languages
+## Skills & Languages
 
 * **Experimental particle physics:** positronium, annihilation photons, prompt γ, triple coincidence, discrete symmetries.
 * **Medical imaging:** PET, PLI, image reconstruction, TOF-PET, NEMA phantom protocols.
@@ -101,17 +101,11 @@ When a positron meets an electron, the two can briefly bind into an atom of matt
 * **Data analysis:** C++, Python, ROOT, likelihood fitting, Bayesian estimators.
 * **Languages:** English (fluent), Polish (working knowledge), Hindi (native), German (basic).
 
-<br />
+<hr />
 
-## 📬 Contact
+## Contact
 
-<p>
-  📧 <strong>Email:</strong> <a href="mailto:manishdasind@gmail.com">manishdasind@gmail.com</a> | <a href="mailto:manish.das@doctoral.uj.edu.pl">manish.das@doctoral.uj.edu.pl</a><br>
-  🏛️ <strong>Office:</strong> Room B-2-46, Institute of Physics, Jagiellonian University, 31-007 Kraków, Poland<br>
-  📞 <strong>Phone:</strong> +48 12 664 4593<br>
-  🌐 <strong>Group:</strong> <a href="https://koza.if.uj.edu.pl/pet">J-PET group</a> | <a href="https://koza.if.uj.edu.pl/staff/mdas">Staff Profile</a>
-</p>
-
-<p align="center">
-  <sub>This profile README mirrors my academic site, <a href="https://dr-manish-das.github.io/">dr-manish-das.github.io</a>, which is built with Jekyll and the <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.</sub>
-</p>
+**Email:** [manishdasind@gmail.com](mailto:manishdasind@gmail.com) | [manish.das@doctoral.uj.edu.pl](mailto:manish.das@doctoral.uj.edu.pl)  
+**Office:** Room B-2-46, Institute of Physics, Jagiellonian University, 31-007 Kraków, Poland  
+**Phone:** +48 12 664 4593  
+**Group:** [J-PET group](https://koza.if.uj.edu.pl/pet) | [Staff Profile](https://koza.if.uj.edu.pl/staff/mdas)
