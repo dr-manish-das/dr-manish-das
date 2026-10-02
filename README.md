@@ -7,7 +7,6 @@
   <br />
 
   <a href="https://koza.if.uj.edu.pl/pet"><img src="https://img.shields.io/badge/J--PET%20at%20Jagiellonian%20University-4A154B?style=for-the-badge" alt="J-PET at Jagiellonian University" /></a>
-  <a href="#selected-publications"><img src="https://img.shields.io/badge/Publications-25-4A154B?style=for-the-badge" alt="25 publications" /></a>
   <a href="https://github.com/dr-manish-das"><img src="https://img.shields.io/badge/Code-github.com%2Fdr--manish--das-555555?style=for-the-badge&logo=github" alt="GitHub" /></a>
   
   <br />
