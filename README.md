@@ -22,13 +22,15 @@
 
 ## About My Research
 
-I am a PhD researcher at the Marian Smoluchowski Institute of Physics, Jagiellonian University. I work in the [J-PET group](https://koza.if.uj.edu.pl/pet) led by Prof. Paweł Moskal. My thesis focuses on positronium lifetime imaging with a PET detector built entirely from plastic scintillator strips. This covers radionuclide selection, TOF/TOT calibration, scatter and random correction, and image reconstruction for triple-coincidence data. I also contribute to tests of fundamental P, T, and CP symmetries using annihilation photons from positronium.
+<blockquote>
+  I am a PhD researcher at the Marian Smoluchowski Institute of Physics, Jagiellonian University. I work in the <a href="https://koza.if.uj.edu.pl/pet">J-PET group</a> led by Prof. Paweł Moskal. My thesis focuses on positronium lifetime imaging with a PET detector built entirely from plastic scintillator strips. This covers radionuclide selection, TOF/TOT calibration, scatter and random correction, and image reconstruction for triple-coincidence data. I also contribute to tests of fundamental P, T, and CP symmetries using annihilation photons from positronium.
+</blockquote>
 
 When a positron meets an electron, the two can briefly bind into an atom of matter and antimatter called **positronium**. In tissue, the time between its formation and its annihilation depends on the surrounding molecular environment and oxygen concentration. Measuring that lifetime yields a functional map at a submillimetre scale that a conventional PET scan cannot resolve. 
 
-**Positronium lifetime imaging (PLI)** turns this into a visual map; for example, it can map tumour oxygenation. Because the J-PET scanner uses only plastic scintillator strips, this type of PET is cheaper, lighter, and more modular than conventional inorganic-crystal detectors. It serves as the starting point for ongoing work toward a total-body plastic PET scanner.
+**Positronium lifetime imaging (PLI)** turns this into a visual map. It can map tumour oxygenation, for example. Because the J-PET scanner uses only plastic scintillator strips, this type of PET is cheaper, lighter, and more modular than conventional inorganic-crystal detectors. It serves as the starting point for ongoing work toward a total-body plastic PET scanner.
 
-<hr />
+<br />
 
 ## Selected Publications
 
@@ -42,7 +44,7 @@ When a positron meets an electron, the two can briefly bind into an atom of matt
 6. **First experimental demonstration of positronium lifetime imaging with ⁴⁴Sc using the J-PET scanner.** _IEEE NSS/MIC/RTSD_ (2025). First author.
 7. **Performance evaluation of the modular J-PET detector in conventional PET imaging.** _IEEE NSS/MIC/RTSD_ (2024). First author.
 
-<hr />
+<br />
 
 ## Collaborative Results
 
@@ -58,9 +60,9 @@ When a positron meets an electron, the two can briefly bind into an atom of matt
 | **First direct determination of the pick-off contribution to the ortho-positronium decay rate** | Phys. Lett. B **879**, 140610 | 2026 | |
 | **Experimental determination of the Dalitz plot for positronium decay using the J-PET detection system** | Phys. Lett. B | 2026 | |
 | **muPPET: Investigating the Muon Puzzle with J-PET Detectors** | Universe **11**(6) 180 | 2025 | |
-| **First-in-human quantum entanglement imaging** | arXiv:2606.29421 (preprint) | 2026 | [arXiv](https://arxiv.org/abs/2606.29421) |
+| **First-in-human Poisson-counting entanglement imaging** | arXiv:2606.29421 (preprint) | 2026 | [arXiv](https://arxiv.org/abs/2606.29421) |
 
-<hr />
+<br />
 
 ## Selected Talks & Posters
 
@@ -72,7 +74,7 @@ When a positron meets an electron, the two can briefly bind into an atom of matt
 * **Evaluation of normalization and random coincidence corrections of clinical images from the first PET built from plastic scintillators.** EANM 2024.
 * **Estimating efficiency and purity for detecting annihilation and prompt photons with J-PET.** Symposium on New Trends in Nuclear and Medical Physics (Oct 2023). Poster.
 
-<hr />
+<br />
 
 ## Experience
 
@@ -83,7 +85,7 @@ When a positron meets an electron, the two can briefly bind into an atom of matt
 | **Research Intern**<br>Jagiellonian University | Dec 2022 to Sep 2023 | PET detector corrections and prompt-γ detection efficiency simulations. |
 | **Subject Matter Expert**<br>Chegg India | Dec 2020 to Dec 2022 | Advanced physics and mathematics tutoring. |
 
-<hr />
+<br />
 
 ## Education
 
@@ -91,7 +93,7 @@ When a positron meets an electron, the two can briefly bind into an atom of matt
 * **MS, Applied Physics.** Guru Ghasidas University, Bilaspur, Chhattisgarh, India (Aug 2019 to Aug 2021). Focus on nuclear and particle physics instrumentation.
 * **BS, Physics / Mathematics / Geology.** Pt. Ravishankar Shukla University, Raipur, Chhattisgarh, India (Aug 2015 to Aug 2018).
 
-<hr />
+<br />
 
 ## Skills & Languages
 
@@ -101,11 +103,25 @@ When a positron meets an electron, the two can briefly bind into an atom of matt
 * **Data analysis:** C++, Python, ROOT, likelihood fitting, Bayesian estimators.
 * **Languages:** English (fluent), Polish (working knowledge), Hindi (native), German (basic).
 
-<hr />
+<br />
 
 ## Contact
 
-**Email:** [manishdasind@gmail.com](mailto:manishdasind@gmail.com) | [manish.das@doctoral.uj.edu.pl](mailto:manish.das@doctoral.uj.edu.pl)  
-**Office:** Room B-2-46, Institute of Physics, Jagiellonian University, 31-007 Kraków, Poland  
-**Phone:** +48 12 664 4593  
-**Group:** [J-PET group](https://koza.if.uj.edu.pl/pet) | [Staff Profile](https://koza.if.uj.edu.pl/staff/mdas)
+<table>
+  <tr>
+    <td><b>Email</b></td>
+    <td><a href="mailto:manishdasind@gmail.com">manishdasind@gmail.com</a> | <a href="mailto:manish.das@doctoral.uj.edu.pl">manish.das@doctoral.uj.edu.pl</a></td>
+  </tr>
+  <tr>
+    <td><b>Office</b></td>
+    <td>Room B-2-46, Institute of Physics, Jagiellonian University, 31-007 Kraków, Poland</td>
+  </tr>
+  <tr>
+    <td><b>Phone</b></td>
+    <td>+48 12 664 4593</td>
+  </tr>
+  <tr>
+    <td><b>Group</b></td>
+    <td><a href="https://koza.if.uj.edu.pl/pet">J-PET group</a> | <a href="https://koza.if.uj.edu.pl/staff/mdas">Staff Profile</a></td>
+  </tr>
+</table>
