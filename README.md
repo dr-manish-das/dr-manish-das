@@ -13,7 +13,6 @@
   <br />
 
   <a href="https://scholar.google.com/citations?user=jC9VkWsAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-jC9VkWsAAAAJ-blue?style=for-the-badge&logo=googlescholar" alt="Google Scholar profile" /></a>
-  <a href="https://arxiv.org/abs/2506.07230"><img src="https://img.shields.io/badge/arXiv-2506.07230-B31B1B?style=for-the-badge&logo=arxiv" alt="arXiv" /></a>
   <a href="mailto:manish.das@doctoral.uj.edu.pl"><img src="https://img.shields.io/badge/Email-manish.das%40doctoral.uj.edu.pl-0A66C2?style=for-the-badge&logo=maildotru" alt="University email" /></a>
   <a href="https://www.linkedin.com/in/manish-das-645898209"><img src="https://img.shields.io/badge/LinkedIn-Manish%20Das-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile" /></a>
 </div>
